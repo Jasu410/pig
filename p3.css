@@ -1,0 +1,96 @@
+.ears{
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+    width: 650px;
+    position:relative;
+   margin-top: 100px;
+}
+.lears{
+    height: 100px;
+    width: 90px;
+    border:2px solid black;
+    border-radius: 50% 50% 0 0;
+    background-color: pink;
+}
+.rears{
+    height: 100px;
+    width: 90px;
+    border:2px solid black;
+    border-radius: 50% 50% 0 0;
+    background-color: pink;
+}
+.face{
+    margin:auto;
+    margin-top: 0%;
+    position: absolute;
+    height: 400px;
+    width: 400px;
+    border:2px solid black;
+    border-radius:50% 50% 50% 50% ;
+    background-color: pink;
+}
+.eyes{
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+    position: absolute;
+    width:400px;
+    margin-top: 100px;
+}
+.leyes{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: white;
+}
+.lbeyes{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: black;
+    margin-top: 20px;
+    margin-left: 20px;
+    position: absolute;
+}
+.reyes{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: white;
+}
+.rbeyes{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: black;
+    margin-top: 20px;
+    margin-left: 20px;
+    position: absolute;
+}
+.nose{
+    height:70px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 500px;
+    background-color: red;
+    margin-top: 250px;
+    margin-left: 125px;
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+}
+.lnose{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: black; 
+    margin-top: 20px;
+}
+.rnose{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: black;
+    margin-top: 20px;
+}
